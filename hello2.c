@@ -6,7 +6,7 @@
 
 MODULE_LICENSE("Dual BSD/GPL\n");
 MODULE_DESCRIPTION("AK-2 lab_5 advanced task: hello2\n");
-MODULE_AUTHOR("Danyliuk IV-82\n");
+MODULE_AUTHOR("Horokhov IO-82\n");
 
 static uint n = 1;
 module_param(n, uint, 0);
